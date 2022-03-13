@@ -7,7 +7,7 @@ public class Sketch extends PApplet {
 
 	/**
   * Description: 
-  * Write a program that utilizes your own variables to create a more dynamic drawing, draws objects in random location, and uses if statements.
+  * Write a program that utilizes your own variables to create a more dynamic drawing, draws objects in random locations, and uses if statements.
   * @author: Tao A
   */
 
